@@ -144,13 +144,22 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 
 # 📝 Collaborative Publications
-- [Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892). Ke Li, Xiwei Fang, Yunhao Ma, Wenyue Zhang, **Pingcheng Dong**, Zhuoyu Chen, Lei Chen, Fengwei An. **2024**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 
-- [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
+- [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](https://arxiv.org/abs/2611.08216). Yufei Xue, Yushi Huang, Jiawei Shao, **Pingcheng Dong**, Yonghao Tan, Shiyao Li, Kwang-Ting Cheng, Jun Zhang. **2026**, *Conference on Neural Information Processing Systems (NeurIPS)*
 
-- [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *EMNLP Main Conference*
+- [A 5nm 91.43 TOPS/W 4-Chiplet Generalizable-Rendering-Processor with UCIe-Enabled Cross-Die-Cache and Balance-Aware Progressive Multi-Level Sparsity](https://doi.org/10.1109/CICC65509.2026.11509482). Yonghao Tan<sup>*</sup>, Songchen Ma<sup>*</sup>, **Pingcheng Dong**, Peng Luo, Zhiyuan Lei, Wencai Lu, Guangxi Ying, Man-To Yung, Haibo Zhao, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Yu Liu, Li Li, Luhong Liang, Mao Liu, Kwang-Ting Cheng. **2026**, *IEEE Custom Integrated Circuits Conference (CICC), pp. 1–4*
 
-- [A Compact Hardware Architecture for Bilateral Filter with the Combination of Approximate Computing and Look-up Table](https://ieeexplore.ieee.org/abstract/document/9733932). Ruoheng Yao, Lei Chen, **Pingcheng Dong**, Zhuoyu Chen, Fengwei An. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
+  <em>*: Equal contribution</em>
+
+- [Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling](https://arxiv.org/abs/2603.27624). Songchen Ma, Hongyi Li, Weihao Zhang, Yonghao Tan, **Pingcheng Dong**, Yu Liu, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Luhong Liang, Kwang-Ting Cheng. **2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*
+
+- [Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b8f10193cab43d45df9bb810637333fd-Abstract-Conference.html). Chuhan Zhang, Chaoyang Zhu, **Pingcheng Dong**, Long Chen, Dong Zhang. **2025**, *International Conference on Learning Representations (ICLR)*
+
+- [Memory Efficient Transformer Adapter for Dense Predictions](https://arxiv.org/abs/2502.01962). Dong Zhang, Rui Yan, **Pingcheng Dong**, Kwang-Ting Cheng. **2025**, *International Conference on Learning Representations (ICLR)*
+
+- [Quantization Variation: A New Perspective on Training Transformers with Low-Bit Precision](https://arxiv.org/abs/2307.00331). Xijie Huang, Zhiqiang Shen, **Pingcheng Dong**, Kwang-Ting Cheng. **2024**, *Transactions on Machine Learning Research (TMLR)*
+
+- [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-Yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*
 
 # 😀 Teaching Assistant
 - ELEC3400 Introduction to Integrated Circuits and Systems (2023 Spring)
