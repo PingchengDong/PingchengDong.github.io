@@ -104,3 +104,5 @@ bundle exec jekyll build
 桌面宽度后续修正：>=1280px 时正文和导航容器改为视口宽度的 85%，取消 1600px 固定上限，根字号仍为 18.75px。`_includes/head.html` 的 CSS URL 带构建时间版本号，避免部署后仍使用旧样式缓存。此前 1600px 宽度方案已由本规则替代。
 
 论文展示（2026-11-17）：Selected Publication 的七个标题改为普通加粗文字，年份/会议信息下方单独显示 `[pdf]`。JSSC 2026、ISSCC 2026/2025、DAC 2025/2024 使用用户 `Documents/ust/my paper/` 中的 PDF，发布到 `files/papers/`。ESSCIRC 2023 和 TCAS-I 2021 使用 IEEE PDF viewer 链接（是否可下载取决于访问权限）。保留合作论文列表原有链接样式及双论文共图结构。PDF 入口新标签打开，便于返回主页。
+
+字号微调（2026-11-17）：桌面 >=1280px 根字号从 18.75px 调为 18px（缩小约 4%），内容宽度仍为 85%，移动端不变。该值取代前文的 18.75px。
