@@ -17,15 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD candidate in the Department of Electronic and Computer Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and the [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/). I am a member of the [Vision and System Design Lab (VSDL)](https://vsdl.hkust.edu.hk/index.html), supervised by [Prof. Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my BEng degree in Microelectronic Science and Engineering from the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in 2022. My research focuses on hardware-software co-design, 3D IC, Design-Technology Co-Optimization (DTCO), and hardware-aware model compression. More details can be found in my [CV](../images/CanadaCast_CV_example.pdf). Feel free to reach out if you are interested in collaboration or discussion.  
+I am a PhD candidate in the Department of Electronic and Computer Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and the [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/). I am a member of the [Vision and System Design Lab (VSDL)](https://vsdl.hkust.edu.hk/index.html), supervised by [Prof. Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my BEng degree in Microelectronic Science and Engineering from the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in 2022. My research focuses on hardware-software co-design, 3D IC, Design-Technology Co-Optimization (DTCO), and hardware-aware model compression. More details can be found in my [CV](../images/CanadaCast_CV_example.pdf). Feel free to reach out if you are interested in collaboration or discussion.<br>
 E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
-# 📖 Educations
+<span class="anchor" id="education"></span>
+
+# 📖 Education
 - *2022.09 - Present*, PhD in Electronics and Computer Engineering, Hong Kong University of Science and Technology.
 - *2018.08 - 2022.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.84/4.00, Rank: 4/93**
 - *2015.09 - 2018.06*, [Guangdong Beijiang Middle School](https://zh.m.wikipedia.org/zh-hk/%E5%B9%BF%E4%B8%9C%E5%8C%97%E6%B1%9F%E4%B8%AD%E5%AD%A6).  
+
+<span class="anchor" id="honors"></span>
 
 # 🎖 Honors and Awards
 - *2024* HKUST RedBird Academic Excellence Award
@@ -37,8 +41,10 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2020* The First Prize of Outstanding Students in SUSTech (Top 5% in SUSTech)
 - *2019* The Second Prize of Outstanding Students in SUSTech (Top 10% in SUSTech)
 
+<span class="anchor" id="news"></span>
+
 # 🔥 News
-- *2022.6.6*: &nbsp;🎉🎉 Our stereo depth coprocessor has sucessfully been taped out in TSMC 28nm CMOS technology! 
+- *2022.6.6*: &nbsp;🎉🎉 Our stereo depth coprocessor has successfully been taped out in TSMC 28nm CMOS technology!
 - *2023.5.24*: &nbsp;🎉🎉 One paper "A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles" has been accepted by IEEE ESSDERC/ESSCIRC 2023!
 - *2024.2.8*: &nbsp;🎉🎉 One collaborative paper "Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles" has been accepted by IEEE Transactions on Circuits and Systems I: Regular Papers!
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024! **(Acceptance Rate: 23%)**
@@ -46,7 +52,35 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2024.5.9*: &nbsp;🎉🎉 I pass the PhD Qualifying Exam (PQE) and become a PhD candidate! 
 - *2024.10.11*: &nbsp;🎉🎉 One paper "A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation" has been accepted by IEEE International Solid-State Circuits Conference (ISSCC), 2025!
 
+<span class="anchor" id="publications"></span>
+
 # 📝 Main Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/jssc_2026_rs_lpu.png' alt="RS-LPU ReRAM-on-logic stacked chip photograph" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RS-LPU: A ReRAM-on-Logic Stacked Large Language Model Accelerator with Software-Hardware Co-Designed Weight Compression and Speculative Decoding](https://doi.org/10.1109/JSSC.2026.3718555)
+
+**Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Di Pang, Fengshi Tian, Songchen Ma, Xijie Huang, Shih-Yang Liu, Dong Zhang, Zhichao Lu, Luhong Liang, Chi-Ying Tsui, Fengbin Tu, Liang Zhao, Kwang-Ting Cheng.
+
+**2026**, *IEEE Journal of Solid-State Circuits (JSSC)*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/isscc_2026_reram.png' alt="ReRAM-on-logic stacked LLM accelerator" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 14.08-to-135.69 Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding](https://ieeexplore.ieee.org/abstract/document/11409211)
+
+**Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Di Pang, Songchen Ma, Xijie Huang, Shih-Yang Liu, Dong Zhang, Zhichao Lu, Luhong Liang, Chi-Ying Tsui, Fengbin Tu, Liang Zhao, Kwang-Ting Cheng.
+
+**2026**, *IEEE International Solid-State Circuits Conference (ISSCC)*
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_ISSCC_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,7 +102,7 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 
 **Pingcheng Dong**, Yonghao Tan, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An and Kwang-Ting Cheng.
 
-**2024**, *61th ACM/IEEE Design Automation Conference (DAC)*
+**2024**, *61st ACM/IEEE Design Automation Conference (DAC)*
 
 </div>
 </div>

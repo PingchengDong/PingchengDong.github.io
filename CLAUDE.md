@@ -2,6 +2,8 @@
 
 本文件为 Claude Code (claude.ai/code) 在本仓库中工作时提供指引。请始终使用中文与用户交流。
 
+维护前先读 `docs/MAINTENANCE.md`，其中记录当前工作树的实际流程与待核实事项。
+
 ## 项目概述
 
 基于 Jekyll 的学术个人主页，属于 Pingcheng Dong（香港科技大学），从 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) 模板 fork 而来。通过 GitHub Pages 部署于 PingchengDong.github.io。
@@ -35,7 +37,9 @@ cd google_scholar_crawler && pip install -r requirements.txt && python3 main.py
 - **`_layouts/default.html`**：唯一的页面布局模板，组装所有 includes。
 
 ### Google Scholar 引用系统
-GitHub Action（`.github/workflows/google_scholar_crawler.yaml`）每天 UTC 08:00 及每次页面构建时运行。执行 `google_scholar_crawler/main.py` 抓取引用数据，JSON 输出到 `google-scholar-stats` 分支。前端通过 CDN 使用 `_includes/fetch_google_scholar_stats.html` 获取数据，填充 `<span class="show_paper_citations" data="PAPER_ID">` 元素。
+**更正（2026-11-17）：以下自动抓取描述是模板旧说明，已被当前仓库状态推翻。当前仅有 Pages 部署 workflow，没有 Scholar 爬虫 workflow，详见 `docs/MAINTENANCE.md`。**
+
+旧说明（保留供追溯）：GitHub Action（`.github/workflows/google_scholar_crawler.yaml`）每天 UTC 08:00 及每次页面构建时运行。执行 `google_scholar_crawler/main.py` 抓取引用数据，JSON 输出到 `google-scholar-stats` 分支。前端通过 CDN 使用 `_includes/fetch_google_scholar_stats.html` 获取数据，填充 `<span class="show_paper_citations" data="PAPER_ID">` 元素。
 
 ### 样式
 `_sass/` 中的 SCSS 通过 `assets/css/main.scss` 编译。使用 Susy 网格框架和 Breakpoint 实现响应式布局。类名采用 BEM 风格（如 `.author__name`、`.author__bio`）。第三方库位于 `_sass/vendor/`。
