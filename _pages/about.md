@@ -22,13 +22,6 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
-<span class="anchor" id="education"></span>
-
-# 📖 Education
-- *2022.09 - Present*, PhD in Electronics and Computer Engineering, Hong Kong University of Science and Technology.
-- *2018.08 - 2022.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.84/4.00, Rank: 4/93**
-- *2015.09 - 2018.06*, [Guangdong Beijiang Middle School](https://zh.m.wikipedia.org/zh-hk/%E5%B9%BF%E4%B8%9C%E5%8C%97%E6%B1%9F%E4%B8%AD%E5%AD%A6).  
-
 <span class="anchor" id="honors"></span>
 
 # 🎖 Honors and Awards

@@ -9,7 +9,7 @@ Git remote：`https://github.com/PingchengDong/PingchengDong.github.io.git`。
 配置站点：`https://pingchengdong.github.io`。
 基于 AcadHomepage 的 Jekyll 单页英文学术主页，GitHub Pages 发布，无 Node 构建步骤。
 
-页面依次为介绍、Education、Honors and Awards、News、Selected Publication、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
+页面依次为介绍、Honors and Awards、News、Selected Publication、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
 当前介绍聚焦软硬件协同、3D IC、DTCO、硬件感知模型压缩。个人身份、论文与荣誉以主页源文件和用户后续提供的事实为准，不在此重复维护履历。
 
 ## 常见修改入口
@@ -29,7 +29,7 @@ Git remote：`https://github.com/PingchengDong/PingchengDong.github.io.git`。
 | 发布工作流 | `.github/workflows/jekyll-gh-pages.yml` |
 
 添加主论文时复用 `paper-box` / `paper-box-image` / `paper-box-text`，保留 `markdown="1"` 与块之间空行。作者顺序、标题、会议年份和链接依据用户材料，姓名沿用加粗方式。合作论文当前采用列表。
-导航使用 `about-me`、`education`、`news`、`publications`、`honors` 显式 ID，不依赖含 emoji 标题生成的自动 ID。
+导航使用 `about-me`、`news`、`publications`、`honors` 显式 ID，不依赖含 emoji 标题生成的自动 ID。
 
 ## 运行、检查与发布
 
@@ -84,3 +84,5 @@ bundle exec jekyll build
 ## 论文链接与共同贡献标记
 
 2026-11-17：Selected Publication 标题下显示 `* Equal contribution`。依据 VSDL 论文页，ISSCC 2025 的 Pingcheng Dong / Yonghao Tan、APSQ (DAC 2025) 的 Yonghao Tan / Pingcheng Dong 标注星号；其他论文不推断共同贡献。ISSCC 2025 链接 IEEE document 10904499，GQA 链接 DOI 10.1145/3649329.3657314（HKUST Research Portal 核对）。APSQ 链接 arXiv 2505.03748，配图 `images/apsq_2025.png` 来自 VSDL `/images/papers/2025/APSQ.png`。
+
+2026-11-17：按用户要求移除独立 Education 板块及对应导航，简介中的教育经历保留。
