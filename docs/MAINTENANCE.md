@@ -61,7 +61,7 @@ bundle exec jekyll build
 以下仅记录，未擅改：
 - SEO description 仍为旧研究方向，与当前正文介绍不完全一致。
 - News 最后列到 2024-10-11，主论文已添加 JSSC 2026 与 ISSCC 2026；是否补新内容由用户提供。
-- CV 指向实际存在的 `images/CanadaCast_CV_example.pdf`，文件名像模板名，内容新旧尚未核验。
+- CV 使用固定路径 `images/pingcheng_dong_cv.pdf`，当前版本来自用户指定的 `/Users/dongpingcheng/Documents/pingcheng_dong_cv_hkust_26fall.pdf`（2026-11-17）。后续替换该文件即可，保持链接稳定；旧模板名 PDF 已移除。
 - SOCC 2021 作者列表中为 `Pingchen Dong`，是否改为 Pingcheng 需核对原论文。
 - head 中引用的 `mstile-144x144.png`、`browserconfig.xml` 在当前 images 目录未找到。
 - `_layouts/default.html` 声明 `layout: compress`，当前 `_layouts/` 仅有 default，构建时需关注相关警告。
