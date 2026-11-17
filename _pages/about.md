@@ -47,7 +47,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 <span class="anchor" id="publications"></span>
 
-# 📝 Selected Publication（* Equal contribution）
+# 📝 Selected Publication
 
 <div class='paper-box paper-box-shared'>
 <div class='paper-box-image'><img src='images/rhb_2026.png' alt="ReRAM-on-logic stacked chip, four-chip system, and SEM/TEM images" width="100%"></div>
@@ -78,6 +78,8 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 **Pingcheng Dong**<sup>*</sup>, Yonghao Tan<sup>*</sup>, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, Dong Zhang, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng.
 
+<em>*: Equal contribution</em>
+
 **2025**, *IEEE International Solid-State Circuits Conference (ISSCC)*
 
 </div>
@@ -90,6 +92,8 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 [APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design](https://arxiv.org/abs/2505.03748)
 
 Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xuejiao Liu, Peng Luo, Shih-Yang Liu, Xijie Huang, Dong Zhang, Luhong Liang, Kwang-Ting Cheng.
+
+<em>*: Equal contribution</em>
 
 **2025**, *62nd ACM/IEEE Design Automation Conference (DAC)*
 
