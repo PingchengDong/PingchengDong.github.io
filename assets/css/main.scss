@@ -156,7 +156,8 @@ h1:before, .anchor:before {
 
     #main,
     .masthead__inner-wrap {
-        max-width: 1600px;
+        width: 94%;
+        max-width: none;
     }
 
     .paper-box .paper-box-image img {
