@@ -128,3 +128,5 @@ Demonstration 更新：按用户最新列表保留五项，顺序为 LLM Acceler
 主页演示区：用户要求将 Teaching Assistant 替换为 Demonstration，已移除两个 TA 条目，主页末尾新增 `#demonstration` 锚点与同样的六张动图。主页及独立 `/demonstration/` 页面共用 `_includes/demonstration-gallery.html`，以后改顺序、标题或图片只改此文件，无需维护两份列表或复制 GIF。独立页面与顶部导航继续保留。
 
 主页底部最终调整：用户撤回内嵌 Demonstration，改为 Academic Service，列出 JSSC、TCAS-I、TCAS-II、TCASAI、TCSVT 的完整期刊名，不额外推断任职。独立 `/demonstration/` 页面、共享 include 与六张动图继续保留；前述“两处展示”安排已撤回。
+
+访客地图（2026-11-18）：主页 Academic Service 后引入 `_includes/visitor-map.html`，只在首页正文 body 中加载 MapMyVisitors 脚本。使用用户提供的统计 ID，统计页 https://mapmyvisitors.com/web/1c9jq 。组件居中、最大 300px，移动端不超过容器；禁用 JavaScript 时使用 noscript 图片后备。没有添加到 head，也未在 Demonstration 页面重复计数。
