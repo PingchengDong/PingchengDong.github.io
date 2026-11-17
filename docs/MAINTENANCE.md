@@ -106,3 +106,5 @@ bundle exec jekyll build
 论文展示（2026-11-17）：Selected Publication 的七个标题改为普通加粗文字，年份/会议信息下方单独显示 `[pdf]`。JSSC 2026、ISSCC 2026/2025、DAC 2025/2024 使用用户 `Documents/ust/my paper/` 中的 PDF，发布到 `files/papers/`。ESSCIRC 2023 和 TCAS-I 2021 使用 IEEE PDF viewer 链接（是否可下载取决于访问权限）。保留合作论文列表原有链接样式及双论文共图结构。PDF 入口新标签打开，便于返回主页。
 
 字号微调（2026-11-17）：桌面 >=1280px 根字号从 18.75px 调为 18px（缩小约 4%），内容宽度仍为 85%，移动端不变。该值取代前文的 18.75px。
+
+论文链接展示最终调整（2026-11-17）：Selected Publication 取消独立 `[pdf]` 入口，标题改为可点击的加粗链接，直接使用原 PDF 地址。`.publication-title` 默认正文色、无下划线，悬停/聚焦变蓝提示可点击，新标签打开。正式 PDF 文件继续保留，前文独立 PDF 入口方案已被替代。

@@ -168,3 +168,16 @@ h1:before, .anchor:before {
         max-width: 100%;
     }
 }
+
+
+.page__content a.publication-title {
+    color: $text-color;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        color: $link-color;
+        text-decoration: none;
+    }
+}

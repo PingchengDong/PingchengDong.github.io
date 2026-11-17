@@ -38,23 +38,21 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 <div class='paper-box-image'><img src='images/rhb_2026.png' alt="ReRAM-on-logic stacked chip, four-chip system, and SEM/TEM images" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**RS-LPU: A ReRAM-on-Logic Stacked Large Language Model Accelerator with Software-Hardware Co-Designed Weight Compression and Speculative Decoding**
+<a class="publication-title" href="/files/papers/jssc_2026.pdf" target="_blank" rel="noopener">RS-LPU: A ReRAM-on-Logic Stacked Large Language Model Accelerator with Software-Hardware Co-Designed Weight Compression and Speculative Decoding</a>
 
 **Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Di Pang, Fengshi Tian, Songchen Ma, Xijie Huang, Shih-Yang Liu, Dong Zhang, Zhichao Lu, Luhong Liang, Chi-Ying Tsui, Fengbin Tu, Liang Zhao, Kwang-Ting Cheng.
 
 **2026**, *IEEE Journal of Solid-State Circuits (JSSC)*
 
-[<a href="/files/papers/jssc_2026.pdf" target="_blank" rel="noopener">pdf</a>]
 
 <hr class="paper-entry-divider">
 
-**A 14.08-to-135.69 Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding**
+<a class="publication-title" href="/files/papers/isscc_2026.pdf" target="_blank" rel="noopener">A 14.08-to-135.69 Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding</a>
 
 **Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Di Pang, Songchen Ma, Xijie Huang, Shih-Yang Liu, Dong Zhang, Zhichao Lu, Luhong Liang, Chi-Ying Tsui, Fengbin Tu, Liang Zhao, Kwang-Ting Cheng.
 
 **2026**, *IEEE International Solid-State Circuits Conference (ISSCC)*
 
-[<a href="/files/papers/isscc_2026.pdf" target="_blank" rel="noopener">pdf</a>]
 
 </div>
 </div>
@@ -63,7 +61,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_ISSCC_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation**
+<a class="publication-title" href="/files/papers/isscc_2025.pdf" target="_blank" rel="noopener">A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation</a>
 
 **Pingcheng Dong**<sup>*</sup>, Yonghao Tan<sup>*</sup>, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, Dong Zhang, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng.
 
@@ -71,7 +69,6 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 **2025**, *IEEE International Solid-State Circuits Conference (ISSCC)*
 
-[<a href="/files/papers/isscc_2025.pdf" target="_blank" rel="noopener">pdf</a>]
 
 </div>
 </div>
@@ -80,7 +77,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/apsq_2025.png' alt="APSQ algorithm-hardware co-design overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design**
+<a class="publication-title" href="/files/papers/dac_2025_apsq.pdf" target="_blank" rel="noopener">APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design</a>
 
 Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xuejiao Liu, Peng Luo, Shih-Yang Liu, Xijie Huang, Dong Zhang, Luhong Liang, Kwang-Ting Cheng.
 
@@ -88,7 +85,6 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 **2025**, *62nd ACM/IEEE Design Automation Conference (DAC)*
 
-[<a href="/files/papers/dac_2025_apsq.pdf" target="_blank" rel="noopener">pdf</a>]
 
 </div>
 </div>
@@ -97,7 +93,7 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**
+<a class="publication-title" href="/files/papers/dac_2024_gqa.pdf" target="_blank" rel="noopener">Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers</a>
 
 **Pingcheng Dong**<sup>*</sup>, Yonghao Tan<sup>*</sup>, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An and Kwang-Ting Cheng.
 
@@ -105,7 +101,6 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 **2024**, *61st ACM/IEEE Design Automation Conference (DAC)*
 
-[<a href="/files/papers/dac_2024_gqa.pdf" target="_blank" rel="noopener">pdf</a>]
 
 </div>
 </div>
@@ -114,13 +109,12 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles**
+<a class="publication-title" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10268790" target="_blank" rel="noopener">A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles</a>
 
 **Pingcheng Dong**, Zhuoyu Chen, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwei An. 
 
 **2023**, *IEEE 49th European Solid State Circuits Conference (ESSCIRC)*
 
-[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268790" target="_blank" rel="noopener">pdf</a>]
 
 </div>
 </div>
@@ -128,7 +122,7 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application**
+<a class="publication-title" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9505253" target="_blank" rel="noopener">A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application</a>
 
 **Pingcheng Dong**<sup>*</sup>, Zhuoyu Chen<sup>*</sup>, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An.  
 
@@ -136,7 +130,6 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 **2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 
-[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9505253" target="_blank" rel="noopener">pdf</a>]
 
 </div>
 </div>
