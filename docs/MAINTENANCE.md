@@ -9,7 +9,7 @@ Git remote：`https://github.com/PingchengDong/PingchengDong.github.io.git`。
 配置站点：`https://pingchengdong.github.io`。
 基于 AcadHomepage 的 Jekyll 单页英文学术主页，GitHub Pages 发布，无 Node 构建步骤。
 
-页面依次为介绍、Honors and Awards、Selected Publication、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
+页面依次为介绍、Honors and Awards、Selected Publication、Collaborative Publications、Demonstration。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
 当前介绍聚焦软硬件协同、3D IC、DTCO、硬件感知模型压缩。个人身份、论文与荣誉以主页源文件和用户后续提供的事实为准，不在此重复维护履历。
 
 ## 常见修改入口
@@ -124,3 +124,5 @@ Selected Publication 同样在七篇标题前使用 `.publication-label`：JSSC�
 Demonstration 更新：按用户最新列表保留五项，顺序为 LLM Acceleration with DVFS、Semantic Segmentation、Ultrasound Segmentation、Portable Vessel Segmentation、Pose Estimation。新增 `images/demonstration/llm-acceleration-dvfs.gif` 由用户指定的微信视频 `8b689042b212e38eca15ec3f48348c13_raw.mp4` 转为 960px 宽、15fps、完整时长循环 GIF，原视频保留。Depth Estimation 已从页面移除，其站点副本删除，Downloads 原 GIF 保留。此列表取代前述旧顺序。
 
 用户更正：Depth Estimation 不删除，已恢复站点 GIF 并放到 Demonstration 最后一项。最终为六项，前五项顺序不变；此前移除 Depth Estimation 的安排已撤回。
+
+主页演示区：用户要求将 Teaching Assistant 替换为 Demonstration，已移除两个 TA 条目，主页末尾新增 `#demonstration` 锚点与同样的六张动图。主页及独立 `/demonstration/` 页面共用 `_includes/demonstration-gallery.html`，以后改顺序、标题或图片只改此文件，无需维护两份列表或复制 GIF。独立页面与顶部导航继续保留。

@@ -151,14 +151,8 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 <span class="publication-label">EMNLP’23</span> <a class="publication-title" href="https://arxiv.org/abs/2310.16836" target="_blank" rel="noopener">LLM-FP4: 4-Bit Floating-Point Quantized Transformers</a>. Shih-Yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*
 
-# 😀 Teaching Assistant
-- ELEC3400 Introduction to Integrated Circuits and Systems (2023 Spring)
-- ELEC4320 FPGA based Design: From Theory to Practice (2023 Fall)
+<span class="anchor" id="demonstration"></span>
 
+# Demonstration
 
-
-  
-  
-
-
-
+{% include demonstration-gallery.html %}
