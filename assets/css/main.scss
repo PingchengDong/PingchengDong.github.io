@@ -241,16 +241,3 @@ h1:before, .anchor:before {
         grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 }
-
-
-.visitor-map {
-    width: 100%;
-    max-width: 300px;
-    margin: 2.5em auto 1em;
-    text-align: center;
-
-    img,
-    iframe {
-        max-width: 100%;
-    }
-}

@@ -129,4 +129,4 @@ Demonstration 更新：按用户最新列表保留五项，顺序为 LLM Acceler
 
 主页底部最终调整：用户撤回内嵌 Demonstration，改为 Academic Service，列出 JSSC、TCAS-I、TCAS-II、TCASAI、TCSVT 的完整期刊名，不额外推断任职。独立 `/demonstration/` 页面、共享 include 与六张动图继续保留；前述“两处展示”安排已撤回。
 
-访客地图（2026-11-18）：主页 Academic Service 后引入 `_includes/visitor-map.html`，只在首页正文 body 中加载 MapMyVisitors 脚本。使用用户提供的统计 ID，统计页 https://mapmyvisitors.com/web/1c9jq 。组件居中、最大 300px，移动端不超过容器；禁用 JavaScript 时使用 noscript 图片后备。没有添加到 head，也未在 Demonstration 页面重复计数。
+2026-11-18：用户撤回访客地图，已移除首页 MapMyVisitors 引用、组件及专用样式，站点不再加载该统计脚本。
