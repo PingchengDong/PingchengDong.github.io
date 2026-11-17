@@ -107,3 +107,11 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.paper-box .paper-box-image img.paper-image-compact {
+    display: block;
+    width: 75%;
+    max-width: 280px;
+    height: auto;
+    margin: 0 auto;
+}
