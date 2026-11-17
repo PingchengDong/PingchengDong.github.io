@@ -112,3 +112,5 @@ bundle exec jekyll build
 2026-11-17：用户补充 ESSCIRC 2023 与 TCAS-I 2021 的 PDF，已将 Downloads 中指定原件逐字节复制为 `files/papers/esscirc_2023_stereo.pdf`、`files/papers/tcas1_2021_stereo.pdf`，标题改为本站链接。Selected Publication 七篇现均直接打开本站 PDF。Collaborative Publications 七篇标题也统一使用 `.publication-title`（黑色加粗、可点击、无下划线），保留原论文链接及列表顺序。
 
 合作论文标签（2026-11-17）：Collaborative Publications 去掉 bullet，改为段落，每篇标题前有 `.publication-label` 蓝底白字圆角标签：NeurIPS’26、CICC’26、HPCA’26、ICLR’25（两篇）、TMLR’24、EMNLP’23。不添加未确认的 Spotlight 等荣誉，作者、年份、完整会议信息和链接保持不变。
+
+Selected Publication 同样在七篇标题前使用 `.publication-label`：JSSC’26、ISSCC’26、ISSCC’25、DAC’25、DAC’24、ESSCIRC’23、TCAS-I’21，与合作论文标签共用样式。
