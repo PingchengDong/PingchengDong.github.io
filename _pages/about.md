@@ -25,11 +25,10 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 <span class="anchor" id="honors"></span>
 
 # 🎖 Honors and Awards
-- *2022* Outstanding Graduate (Top 8 in the College of Engineering, SUSTech) 
-- *2021* China National Scholarship (Top 8 in SUSTech)
-- *2021* Scientific Research Star (Top 1 in Shuren College, SUSTech)
-- *2020* The First Prize of Outstanding Students in SUSTech (Top 5% in SUSTech)
-- *2019* The Second Prize of Outstanding Students in SUSTech (Top 10% in SUSTech)
+- *2024* HKUST RedBird Academic Excellence Award
+- *2022* Hong Kong PhD Fellowship (HKPFS)
+- *2022* HKUST RedBird PhD Scholarship
+- *2022* Outstanding Graduate (Top 8 in the College of Engineering, SUSTech)
 
 <span class="anchor" id="publications"></span>
 

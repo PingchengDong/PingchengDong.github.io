@@ -97,4 +97,4 @@ bundle exec jekyll build
 
 2026-11-17：按用户要求删除整个 News 板块及顶部 News 导航，不再维护新闻列表。
 
-2026-11-17：Honors and Awards 仅保留用户指定的五项 SUSTech 荣誉（2022 Outstanding Graduate、2021 China National Scholarship / Scientific Research Star、2020 一等奖、2019 二等奖），移除三项 HKUST/HKPFS 奖项。
+2026-11-17 用户更正：Honors and Awards 仅保留四项且不重复：2024 HKUST RedBird Academic Excellence Award、2022 Hong Kong PhD Fellowship (HKPFS)、2022 HKUST RedBird PhD Scholarship、2022 Outstanding Graduate (Top 8 in the College of Engineering, SUSTech)。此前仅保留五项 SUSTech 荣誉的指令已撤回。
