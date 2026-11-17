@@ -114,3 +114,9 @@ bundle exec jekyll build
 合作论文标签（2026-11-17）：Collaborative Publications 去掉 bullet，改为段落，每篇标题前有 `.publication-label` 蓝底白字圆角标签：NeurIPS’26、CICC’26、HPCA’26、ICLR’25（两篇）、TMLR’24、EMNLP’23。不添加未确认的 Spotlight 等荣誉，作者、年份、完整会议信息和链接保持不变。
 
 Selected Publication 同样在七篇标题前使用 `.publication-label`：JSSC’26、ISSCC’26、ISSCC’25、DAC’25、DAC’24、ESSCIRC’23、TCAS-I’21，与合作论文标签共用样式。
+
+## Demonstration 页面
+
+独立页面 `_pages/demonstration.md`，地址 `/demonstration/`，顶部导航已加入入口，沿用作者侧栏。五张原始 GIF 放在 `images/demonstration/`，来自用户 Downloads 中对应标题的文件，逐字节复制且保留动画。标题分别为 Depth Estimation、Portable Vessel Segmentation、Pose Estimation、Semantic Segmentation、Ultrasound Segmentation。CSS `.demonstration-grid`：桌面三列、中屏两列、手机单列；圆角、轻阴影、下方居中标题。动图等比例完整显示，点击通过主题内置图片弹层查看原图；使用 lazy loading 避免全部立即加载，原图总量约 77MB。
+
+独立页面要求公共资源使用站点根路径：作者头像、scripts、head/custom 采用 `relative_url`，Homepage 导航返回根目录锚点。以后新增页面也应检查这些路径，不能依赖主页相对路径。
