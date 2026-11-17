@@ -96,3 +96,5 @@ bundle exec jekyll build
 2026-11-17：用户要求 CICC 2026 合作论文不强调共同贡献，已去掉该条目的作者星号及 Equal contribution 说明；Selected Publication 的共同贡献标记保留。
 
 2026-11-17：按用户要求删除整个 News 板块及顶部 News 导航，不再维护新闻列表。
+
+2026-11-17：Honors and Awards 仅保留用户指定的五项 SUSTech 荣誉（2022 Outstanding Graduate、2021 China National Scholarship / Scientific Research Star、2020 一等奖、2019 二等奖），移除三项 HKUST/HKPFS 奖项。
