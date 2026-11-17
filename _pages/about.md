@@ -151,8 +151,12 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 <span class="publication-label">EMNLP’23</span> <a class="publication-title" href="https://arxiv.org/abs/2310.16836" target="_blank" rel="noopener">LLM-FP4: 4-Bit Floating-Point Quantized Transformers</a>. Shih-Yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*
 
-<span class="anchor" id="demonstration"></span>
+<span class="anchor" id="academic-service"></span>
 
-# Demonstration
+# Academic Service
 
-{% include demonstration-gallery.html %}
+- IEEE Journal of Solid-State Circuits (JSSC)
+- IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
+- IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)
+- IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
