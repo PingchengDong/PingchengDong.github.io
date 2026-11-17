@@ -54,7 +54,9 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 <span class="anchor" id="publications"></span>
 
-# 📝 Main Publications 
+# 📝 Selected Publication
+
+<span class="publication-note">* Equal contribution</span>
 
 <div class='paper-box paper-box-shared'>
 <div class='paper-box-image'><img src='images/rhb_2026.png' alt="ReRAM-on-logic stacked chip, four-chip system, and SEM/TEM images" width="100%"></div>
@@ -81,11 +83,24 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_ISSCC_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation
+[A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation](https://ieeexplore.ieee.org/abstract/document/10904499)
 
-**Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, Dong Zhang, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng.
+**Pingcheng Dong**<sup>*</sup>, Yonghao Tan<sup>*</sup>, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, Dong Zhang, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng.
 
 **2025**, *IEEE International Solid-State Circuits Conference (ISSCC)*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/apsq_2025.png' alt="APSQ algorithm-hardware co-design overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design](https://arxiv.org/abs/2505.03748)
+
+Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xuejiao Liu, Peng Luo, Shih-Yang Liu, Xijie Huang, Dong Zhang, Luhong Liang, Kwang-Ting Cheng.
+
+**2025**, *62nd ACM/IEEE Design Automation Conference (DAC)*
 
 </div>
 </div>
@@ -94,7 +109,7 @@ A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers
+[Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers](https://doi.org/10.1145/3649329.3657314)
 
 **Pingcheng Dong**, Yonghao Tan, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An and Kwang-Ting Cheng.
 

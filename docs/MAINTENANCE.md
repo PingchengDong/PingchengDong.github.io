@@ -9,7 +9,7 @@ Git remote：`https://github.com/PingchengDong/PingchengDong.github.io.git`。
 配置站点：`https://pingchengdong.github.io`。
 基于 AcadHomepage 的 Jekyll 单页英文学术主页，GitHub Pages 发布，无 Node 构建步骤。
 
-页面依次为介绍、Education、Honors and Awards、News、Main Publications、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
+页面依次为介绍、Education、Honors and Awards、News、Selected Publication、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
 当前介绍聚焦软硬件协同、3D IC、DTCO、硬件感知模型压缩。个人身份、论文与荣誉以主页源文件和用户后续提供的事实为准，不在此重复维护履历。
 
 ## 常见修改入口
@@ -73,7 +73,7 @@ bundle exec jekyll build
 
 ## 2026 论文素材来源
 
-两篇 2026 论文位于 Main Publications 顶部，顺序为 JSSC、ISSCC，标题和作者已对照用户提供的 PDF 与 https://vsdl.hkust.edu.hk/publications/ 。JSSC 使用原文 DOI `10.1109/JSSC.2026.3718555`，ISSCC 使用 IEEE document 11409211。未复制 PDF 或推测 News 的录用公告日期。
+两篇 2026 论文位于 Selected Publication 顶部，顺序为 JSSC、ISSCC，标题和作者已对照用户提供的 PDF 与 https://vsdl.hkust.edu.hk/publications/ 。JSSC 使用原文 DOI `10.1109/JSSC.2026.3718555`，ISSCC 使用 IEEE document 11409211。未复制 PDF 或推测 News 的录用公告日期。
 
 两篇共用用户提供的 `/Users/dongpingcheng/Downloads/RHB.png`，站点资产为 `images/rhb_2026.png`。`paper-box-shared` 在桌面上左侧 30% 图片栏、右侧 70% 两篇论文，图片最大 280px；手机上图片在上、论文在下。两篇间用细线区分，保留各自作者及链接。此前两张独立配图及 compact 样式已被此方案替换并删除。
 
@@ -81,3 +81,6 @@ bundle exec jekyll build
 
 2026-11-17 用户明确授权：后续主页修改完成并检查后，自动 git commit 和 git push，无需再次确认。推送后核对远端提交，区分推送成功与 Pages 部署成功。此前“未推送”描述仅为对应任务当时状态。
 
+## 论文链接与共同贡献标记
+
+2026-11-17：Selected Publication 标题下显示 `* Equal contribution`。依据 VSDL 论文页，ISSCC 2025 的 Pingcheng Dong / Yonghao Tan、APSQ (DAC 2025) 的 Yonghao Tan / Pingcheng Dong 标注星号；其他论文不推断共同贡献。ISSCC 2025 链接 IEEE document 10904499，GQA 链接 DOI 10.1145/3649329.3657314（HKUST Research Portal 核对）。APSQ 链接 arXiv 2505.03748，配图 `images/apsq_2025.png` 来自 VSDL `/images/papers/2025/APSQ.png`。
