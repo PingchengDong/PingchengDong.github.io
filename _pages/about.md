@@ -106,7 +106,9 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 [Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers](https://doi.org/10.1145/3649329.3657314)
 
-**Pingcheng Dong**, Yonghao Tan, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An and Kwang-Ting Cheng.
+**Pingcheng Dong**<sup>*</sup>, Yonghao Tan<sup>*</sup>, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An and Kwang-Ting Cheng.
+
+<em>*: Equal contribution</em>
 
 **2024**, *61st ACM/IEEE Design Automation Conference (DAC)*
 
@@ -131,22 +133,15 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 [A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
 
-**Pingcheng Dong**, Zhuoyu Chen, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An.  
+**Pingcheng Dong**<sup>*</sup>, Zhuoyu Chen<sup>*</sup>, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An.  
+
+<em>*: Equal contribution</em>
 
 **2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 
 </div>
 </div>
 
-
-- [Configurable Image Rectification and Disparity Refinement for Stereo Vision](https://ieeexplore.ieee.org/abstract/document/9832005). **Pingcheng Dong**, Zhuoyu Chen, Zhuoao Li, Ruoheng Yao, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. **2022** *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)*
-
-
-- [A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9634805). **Pingcheng Dong**, Zhuoao Li, Zhuoyu Chen, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. **2021** *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
-
-- [Real-Time FPGA-Based Binocular Stereo Vision System with Semi-Global Matching Algorithm](https://ieeexplore.ieee.org/abstract/document/9739626). Zhuoyu Chen, **Pingchen Dong**, Zhuoao Li, Ruoheng Yao, Yunhao Ma, Xiwei Fang, Huanshihong Deng, Wenyue Zhang, Lei Chen, Fengwei An. **2021** *IEEE 34th International System-on-Chip Conference (SOCC)*
-
-- [Robot navigation based on pseudo-binocular stereo vision and linear fitting](https://ieeexplore.ieee.org/abstract/document/9332014). Huanshihong Deng, **Pingcheng Dong**, Zhuoao Li, Haoran Lyu, Yangyi Zhang, Yiwei Luo, Fengwei An. **2020** *IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*
 
 # 📝 Collaborative Publications
 - [Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892). Ke Li, Xiwei Fang, Yunhao Ma, Wenyue Zhang, **Pingcheng Dong**, Zhuoyu Chen, Lei Chen, Fengwei An. **2024**, *IEEE Transactions on Circuits and Systems I: Regular Papers*

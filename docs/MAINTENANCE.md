@@ -62,7 +62,6 @@ bundle exec jekyll build
 - SEO description 仍为旧研究方向，与当前正文介绍不完全一致。
 - News 最后列到 2024-10-11，主论文已添加 JSSC 2026 与 ISSCC 2026；是否补新内容由用户提供。
 - CV 使用固定路径 `images/pingcheng_dong_cv.pdf`，当前版本来自用户指定的 `/Users/dongpingcheng/Documents/pingcheng_dong_cv_hkust_26fall.pdf`（2026-11-17）。后续替换该文件即可，保持链接稳定；旧模板名 PDF 已移除。
-- SOCC 2021 作者列表中为 `Pingchen Dong`，是否改为 Pingcheng 需核对原论文。
 - head 中引用的 `mstile-144x144.png`、`browserconfig.xml` 在当前 images 目录未找到。
 - `_layouts/default.html` 声明 `layout: compress`，当前 `_layouts/` 仅有 default，构建时需关注相关警告。
 - `.history/` 是已有历史目录，不作为当前内容来源；未检查其保留价值，不擅自清理。
@@ -88,3 +87,5 @@ bundle exec jekyll build
 2026-11-17：按用户要求移除独立 Education 板块及对应导航，简介中的教育经历保留。
 
 2026-11-17：用户最终选择侧栏仅显示英文姓名，中文姓名配置、模板及专用样式已移除。
+
+2026-11-17 用户补充：GQA (DAC 2024) 的 Pingcheng Dong / Yonghao Tan、TCAS-I 2021 stereo depth coprocessor 的 Pingcheng Dong / Zhuoyu Chen 也标注共同贡献星号及独立说明。用户指定删除 TCAS-II 2022 rectification、A-SSCC 2021、SOCC 2021、ICTA 2020 四个列表条目。
