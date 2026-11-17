@@ -87,4 +87,4 @@ bundle exec jekyll build
 
 2026-11-17：按用户要求移除独立 Education 板块及对应导航，简介中的教育经历保留。
 
-侧栏中文姓名通过 `_config.yml` 的 `author.name_zh` 配置，当前为“董平成”。在英文姓名下方独立显示，模板为 `_includes/author-profile.html`，样式为 `_sass/_sidebar.scss` 的 `.author__name-zh`。
+侧栏中文姓名通过 `_config.yml` 的 `author.name_zh` 配置，当前为“董平成”。在英文姓名下方独立显示，与英文共用 h3 和 `.author__name`，字号、字重一致，模板为 `_includes/author-profile.html`，样式为 `_sass/_sidebar.scss` 的 `.author__name-zh`。
