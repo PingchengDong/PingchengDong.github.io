@@ -109,7 +109,7 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class="publication-title" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10268790" target="_blank" rel="noopener">A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles</a>
+<a class="publication-title" href="/files/papers/esscirc_2023_stereo.pdf" target="_blank" rel="noopener">A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles</a>
 
 **Pingcheng Dong**, Zhuoyu Chen, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwei An. 
 
@@ -122,7 +122,7 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class="publication-title" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9505253" target="_blank" rel="noopener">A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application</a>
+<a class="publication-title" href="/files/papers/tcas1_2021_stereo.pdf" target="_blank" rel="noopener">A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application</a>
 
 **Pingcheng Dong**<sup>*</sup>, Zhuoyu Chen<sup>*</sup>, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An.  
 
@@ -137,19 +137,19 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 # 📝 Collaborative Publications
 
-- [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](https://arxiv.org/abs/2611.08216). Yufei Xue, Yushi Huang, Jiawei Shao, **Pingcheng Dong**, Yonghao Tan, Shiyao Li, Kwang-Ting Cheng, Jun Zhang. **2026**, *Conference on Neural Information Processing Systems (NeurIPS)*
+- <a class="publication-title" href="https://arxiv.org/abs/2611.08216" target="_blank" rel="noopener">ProQuant: Progressive Quantization-aware Training for Edge MLLMs</a>. Yufei Xue, Yushi Huang, Jiawei Shao, **Pingcheng Dong**, Yonghao Tan, Shiyao Li, Kwang-Ting Cheng, Jun Zhang. **2026**, *Conference on Neural Information Processing Systems (NeurIPS)*
 
-- [A 5nm 91.43 TOPS/W 4-Chiplet Generalizable-Rendering-Processor with UCIe-Enabled Cross-Die-Cache and Balance-Aware Progressive Multi-Level Sparsity](https://doi.org/10.1109/CICC65509.2026.11509482). Yonghao Tan, Songchen Ma, **Pingcheng Dong**, Peng Luo, Zhiyuan Lei, Wencai Lu, Guangxi Ying, Man-To Yung, Haibo Zhao, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Yu Liu, Li Li, Luhong Liang, Mao Liu, Kwang-Ting Cheng. **2026**, *IEEE Custom Integrated Circuits Conference (CICC), pp. 1–4*
+- <a class="publication-title" href="https://doi.org/10.1109/CICC65509.2026.11509482" target="_blank" rel="noopener">A 5nm 91.43 TOPS/W 4-Chiplet Generalizable-Rendering-Processor with UCIe-Enabled Cross-Die-Cache and Balance-Aware Progressive Multi-Level Sparsity</a>. Yonghao Tan, Songchen Ma, **Pingcheng Dong**, Peng Luo, Zhiyuan Lei, Wencai Lu, Guangxi Ying, Man-To Yung, Haibo Zhao, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Yu Liu, Li Li, Luhong Liang, Mao Liu, Kwang-Ting Cheng. **2026**, *IEEE Custom Integrated Circuits Conference (CICC), pp. 1–4*
 
-- [Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling](https://arxiv.org/abs/2603.27624). Songchen Ma, Hongyi Li, Weihao Zhang, Yonghao Tan, **Pingcheng Dong**, Yu Liu, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Luhong Liang, Kwang-Ting Cheng. **2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*
+- <a class="publication-title" href="https://arxiv.org/abs/2603.27624" target="_blank" rel="noopener">Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling</a>. Songchen Ma, Hongyi Li, Weihao Zhang, Yonghao Tan, **Pingcheng Dong**, Yu Liu, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Luhong Liang, Kwang-Ting Cheng. **2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*
 
-- [Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b8f10193cab43d45df9bb810637333fd-Abstract-Conference.html). Chuhan Zhang, Chaoyang Zhu, **Pingcheng Dong**, Long Chen, Dong Zhang. **2025**, *International Conference on Learning Representations (ICLR)*
+- <a class="publication-title" href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/b8f10193cab43d45df9bb810637333fd-Abstract-Conference.html" target="_blank" rel="noopener">Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection</a>. Chuhan Zhang, Chaoyang Zhu, **Pingcheng Dong**, Long Chen, Dong Zhang. **2025**, *International Conference on Learning Representations (ICLR)*
 
-- [Memory Efficient Transformer Adapter for Dense Predictions](https://arxiv.org/abs/2502.01962). Dong Zhang, Rui Yan, **Pingcheng Dong**, Kwang-Ting Cheng. **2025**, *International Conference on Learning Representations (ICLR)*
+- <a class="publication-title" href="https://arxiv.org/abs/2502.01962" target="_blank" rel="noopener">Memory Efficient Transformer Adapter for Dense Predictions</a>. Dong Zhang, Rui Yan, **Pingcheng Dong**, Kwang-Ting Cheng. **2025**, *International Conference on Learning Representations (ICLR)*
 
-- [Quantization Variation: A New Perspective on Training Transformers with Low-Bit Precision](https://arxiv.org/abs/2307.00331). Xijie Huang, Zhiqiang Shen, **Pingcheng Dong**, Kwang-Ting Cheng. **2024**, *Transactions on Machine Learning Research (TMLR)*
+- <a class="publication-title" href="https://arxiv.org/abs/2307.00331" target="_blank" rel="noopener">Quantization Variation: A New Perspective on Training Transformers with Low-Bit Precision</a>. Xijie Huang, Zhiqiang Shen, **Pingcheng Dong**, Kwang-Ting Cheng. **2024**, *Transactions on Machine Learning Research (TMLR)*
 
-- [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-Yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*
+- <a class="publication-title" href="https://arxiv.org/abs/2310.16836" target="_blank" rel="noopener">LLM-FP4: 4-Bit Floating-Point Quantized Transformers</a>. Shih-Yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*
 
 # 😀 Teaching Assistant
 - ELEC3400 Introduction to Integrated Circuits and Systems (2023 Spring)

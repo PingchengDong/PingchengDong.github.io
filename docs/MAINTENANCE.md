@@ -108,3 +108,5 @@ bundle exec jekyll build
 字号微调（2026-11-17）：桌面 >=1280px 根字号从 18.75px 调为 18px（缩小约 4%），内容宽度仍为 85%，移动端不变。该值取代前文的 18.75px。
 
 论文链接展示最终调整（2026-11-17）：Selected Publication 取消独立 `[pdf]` 入口，标题改为可点击的加粗链接，直接使用原 PDF 地址。`.publication-title` 默认正文色、无下划线，悬停/聚焦变蓝提示可点击，新标签打开。正式 PDF 文件继续保留，前文独立 PDF 入口方案已被替代。
+
+2026-11-17：用户补充 ESSCIRC 2023 与 TCAS-I 2021 的 PDF，已将 Downloads 中指定原件逐字节复制为 `files/papers/esscirc_2023_stereo.pdf`、`files/papers/tcas1_2021_stereo.pdf`，标题改为本站链接。Selected Publication 七篇现均直接打开本站 PDF。Collaborative Publications 七篇标题也统一使用 `.publication-title`（黑色加粗、可点击、无下划线），保留原论文链接及列表顺序。
