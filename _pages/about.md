@@ -56,7 +56,8 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img class='paper-image-compact' src='images/jssc_2026_rs_lpu.png' alt="RS-LPU ReRAM-on-logic stacked chip photograph" width="100%"></div></div>
+<div class='paper-box paper-box-shared'>
+<div class='paper-box-image'><img src='images/rhb_2026.png' alt="ReRAM-on-logic stacked chip, four-chip system, and SEM/TEM images" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [RS-LPU: A ReRAM-on-Logic Stacked Large Language Model Accelerator with Software-Hardware Co-Designed Weight Compression and Speculative Decoding](https://doi.org/10.1109/JSSC.2026.3718555)
@@ -65,12 +66,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 **2026**, *IEEE Journal of Solid-State Circuits (JSSC)*
 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img class='paper-image-compact' src='images/isscc_2026_reram.png' alt="ReRAM-on-logic stacked LLM accelerator" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<hr class="paper-entry-divider">
 
 [A 14.08-to-135.69 Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding](https://ieeexplore.ieee.org/abstract/document/11409211)
 

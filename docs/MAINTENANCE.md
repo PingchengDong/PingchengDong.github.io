@@ -73,10 +73,11 @@ bundle exec jekyll build
 
 ## 2026 论文素材来源
 
-新增两篇卡片位于 Main Publications 顶部，顺序为 JSSC 2026、ISSCC 2026。标题和作者已对照用户提供的同名 PDF 与 https://vsdl.hkust.edu.hk/publications/ 。配图来自实验室页面的 `/images/papers/2026/JSSC.png` 和 `/images/papers/2026/isscc_rhb.png`，分别保存为 `images/jssc_2026_rs_lpu.png`、`images/isscc_2026_reram.png`，供本站独立加载。JSSC 使用原文 DOI `10.1109/JSSC.2026.3718555`，ISSCC 使用实验室给出的 IEEE document 11409211 链接。未复制 PDF 到站点，也未推测 News 的录用公告日期。
+两篇 2026 论文位于 Main Publications 顶部，顺序为 JSSC、ISSCC，标题和作者已对照用户提供的 PDF 与 https://vsdl.hkust.edu.hk/publications/ 。JSSC 使用原文 DOI `10.1109/JSSC.2026.3718555`，ISSCC 使用 IEEE document 11409211。未复制 PDF 或推测 News 的录用公告日期。
+
+两篇共用用户提供的 `/Users/dongpingcheng/Downloads/RHB.png`，站点资产为 `images/rhb_2026.png`。`paper-box-shared` 在桌面上左侧 30% 图片栏、右侧 70% 两篇论文，图片最大 280px；手机上图片在上、论文在下。两篇间用细线区分，保留各自作者及链接。此前两张独立配图及 compact 样式已被此方案替换并删除。
 
 ## 自动发布约定
 
 2026-11-17 用户明确授权：后续主页修改完成并检查后，自动 git commit 和 git push，无需再次确认。推送后核对远端提交，区分推送成功与 Pages 部署成功。此前“未推送”描述仅为对应任务当时状态。
 
-2026-11-17 配图尺寸调整：两篇 2026 论文使用 `paper-image-compact`，宽度为图片栏的 75%，上限 280px，居中并保持比例。样式在 `assets/css/main.scss`，其他论文不受影响。

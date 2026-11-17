@@ -108,10 +108,38 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.paper-box .paper-box-image img.paper-image-compact {
-    display: block;
-    width: 75%;
-    max-width: 280px;
-    height: auto;
-    margin: 0 auto;
+.paper-box.paper-box-shared {
+    .paper-box-image {
+        order: 1;
+        min-width: 0;
+        img {
+            width: 100%;
+            max-width: 280px;
+            height: auto;
+            object-fit: contain;
+        }
+    }
+
+    .paper-box-text {
+        order: 2;
+        min-width: 0;
+    }
+
+    .paper-entry-divider {
+        margin: 1.5em 0;
+        border: 0;
+        border-top: 1px solid #efefef;
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            width: 30%;
+            max-width: 30%;
+            justify-content: center;
+        }
+        .paper-box-text {
+            width: 70%;
+            max-width: 70%;
+        }
+    }
 }
