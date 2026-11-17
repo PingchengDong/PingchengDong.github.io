@@ -24,6 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pingcheng DONG"
+  name_zh          : "董平成"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "HKUST Vision and System Design Lab"
   location         : "Kowloon, Hong Kong"

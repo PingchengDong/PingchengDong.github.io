@@ -86,3 +86,5 @@ bundle exec jekyll build
 2026-11-17：Selected Publication 标题下显示 `* Equal contribution`。依据 VSDL 论文页，ISSCC 2025 的 Pingcheng Dong / Yonghao Tan、APSQ (DAC 2025) 的 Yonghao Tan / Pingcheng Dong 标注星号；其他论文不推断共同贡献。ISSCC 2025 链接 IEEE document 10904499，GQA 链接 DOI 10.1145/3649329.3657314（HKUST Research Portal 核对）。APSQ 链接 arXiv 2505.03748，配图 `images/apsq_2025.png` 来自 VSDL `/images/papers/2025/APSQ.png`。
 
 2026-11-17：按用户要求移除独立 Education 板块及对应导航，简介中的教育经历保留。
+
+侧栏中文姓名通过 `_config.yml` 的 `author.name_zh` 配置，当前为“董平成”。在英文姓名下方独立显示，模板为 `_includes/author-profile.html`，样式为 `_sass/_sidebar.scss` 的 `.author__name-zh`。
