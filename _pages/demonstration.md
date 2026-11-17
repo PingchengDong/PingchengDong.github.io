@@ -1,7 +1,7 @@
 ---
 permalink: /demonstration/
 title: "Demonstration"
-excerpt: "Hardware demonstrations of LLM acceleration with DVFS, segmentation, and pose estimation."
+excerpt: "Hardware demonstrations of LLM acceleration with DVFS, segmentation, pose estimation, and depth estimation."
 author_profile: true
 ---
 
@@ -37,5 +37,11 @@ author_profile: true
       <img src="{{ '/images/demonstration/pose-estimation.gif' | relative_url }}" alt="Pose Estimation demonstration" loading="lazy" decoding="async">
     </a>
     <figcaption>Pose Estimation</figcaption>
+  </figure>
+  <figure class="demo-card">
+    <a href="{{ '/images/demonstration/depth-estimation.gif' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Depth Estimation animation">
+      <img src="{{ '/images/demonstration/depth-estimation.gif' | relative_url }}" alt="Depth Estimation demonstration" loading="lazy" decoding="async">
+    </a>
+    <figcaption>Depth Estimation</figcaption>
   </figure>
 </div>

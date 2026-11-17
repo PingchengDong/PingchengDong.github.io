@@ -122,3 +122,5 @@ Selected Publication 同样在七篇标题前使用 `.publication-label`：JSSC�
 独立页面要求公共资源使用站点根路径：作者头像、scripts、head/custom 采用 `relative_url`，Homepage 导航返回根目录锚点。以后新增页面也应检查这些路径，不能依赖主页相对路径。
 
 Demonstration 更新：按用户最新列表保留五项，顺序为 LLM Acceleration with DVFS、Semantic Segmentation、Ultrasound Segmentation、Portable Vessel Segmentation、Pose Estimation。新增 `images/demonstration/llm-acceleration-dvfs.gif` 由用户指定的微信视频 `8b689042b212e38eca15ec3f48348c13_raw.mp4` 转为 960px 宽、15fps、完整时长循环 GIF，原视频保留。Depth Estimation 已从页面移除，其站点副本删除，Downloads 原 GIF 保留。此列表取代前述旧顺序。
+
+用户更正：Depth Estimation 不删除，已恢复站点 GIF 并放到 Demonstration 最后一项。最终为六项，前五项顺序不变；此前移除 Depth Estimation 的安排已撤回。
