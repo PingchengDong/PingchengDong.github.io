@@ -34,17 +34,6 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2020* The First Prize of Outstanding Students in SUSTech (Top 5% in SUSTech)
 - *2019* The Second Prize of Outstanding Students in SUSTech (Top 10% in SUSTech)
 
-<span class="anchor" id="news"></span>
-
-# 🔥 News
-- *2022.6.6*: &nbsp;🎉🎉 Our stereo depth coprocessor has successfully been taped out in TSMC 28nm CMOS technology!
-- *2023.5.24*: &nbsp;🎉🎉 One paper "A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles" has been accepted by IEEE ESSDERC/ESSCIRC 2023!
-- *2024.2.8*: &nbsp;🎉🎉 One collaborative paper "Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles" has been accepted by IEEE Transactions on Circuits and Systems I: Regular Papers!
-- *2024.2.27*: &nbsp;🎉🎉 One paper "Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024! **(Acceptance Rate: 23%)**
-- *2024.2.27*: &nbsp;🎉🎉 One paper "Additive Partial Sum Quantization" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
-- *2024.5.9*: &nbsp;🎉🎉 I pass the PhD Qualifying Exam (PQE) and become a PhD candidate! 
-- *2024.10.11*: &nbsp;🎉🎉 One paper "A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation" has been accepted by IEEE International Solid-State Circuits Conference (ISSCC), 2025!
-
 <span class="anchor" id="publications"></span>
 
 # 📝 Selected Publication

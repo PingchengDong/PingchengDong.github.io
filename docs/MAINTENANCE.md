@@ -9,7 +9,7 @@ Git remote：`https://github.com/PingchengDong/PingchengDong.github.io.git`。
 配置站点：`https://pingchengdong.github.io`。
 基于 AcadHomepage 的 Jekyll 单页英文学术主页，GitHub Pages 发布，无 Node 构建步骤。
 
-页面依次为介绍、Honors and Awards、News、Selected Publication、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
+页面依次为介绍、Honors and Awards、Selected Publication、Collaborative Publications、Teaching Assistant。侧栏由配置生成，顶部导航独立定义，顺序不完全等同正文。
 当前介绍聚焦软硬件协同、3D IC、DTCO、硬件感知模型压缩。个人身份、论文与荣誉以主页源文件和用户后续提供的事实为准，不在此重复维护履历。
 
 ## 常见修改入口
@@ -29,7 +29,7 @@ Git remote：`https://github.com/PingchengDong/PingchengDong.github.io.git`。
 | 发布工作流 | `.github/workflows/jekyll-gh-pages.yml` |
 
 添加主论文时复用 `paper-box` / `paper-box-image` / `paper-box-text`，保留 `markdown="1"` 与块之间空行。作者顺序、标题、会议年份和链接依据用户材料，姓名沿用加粗方式。合作论文当前采用列表。
-导航使用 `about-me`、`news`、`publications`、`honors` 显式 ID，不依赖含 emoji 标题生成的自动 ID。
+导航使用 `about-me`、`publications`、`honors` 显式 ID，不依赖含 emoji 标题生成的自动 ID。
 
 ## 运行、检查与发布
 
@@ -60,7 +60,6 @@ bundle exec jekyll build
 
 以下仅记录，未擅改：
 - SEO description 仍为旧研究方向，与当前正文介绍不完全一致。
-- News 最后列到 2024-10-11，主论文已添加 JSSC 2026 与 ISSCC 2026；是否补新内容由用户提供。
 - CV 使用固定路径 `images/pingcheng_dong_cv.pdf`，当前版本来自用户指定的 `/Users/dongpingcheng/Documents/pingcheng_dong_cv_hkust_26fall.pdf`（2026-11-17）。后续替换该文件即可，保持链接稳定；旧模板名 PDF 已移除。
 - head 中引用的 `mstile-144x144.png`、`browserconfig.xml` 在当前 images 目录未找到。
 - `_layouts/default.html` 声明 `layout: compress`，当前 `_layouts/` 仅有 default，构建时需关注相关警告。
@@ -95,3 +94,5 @@ bundle exec jekyll build
 共图尺寸修正：`.paper-box-shared` 的桌面两栏使用固定 flex-basis 40% / 60%，禁止 flex 收缩；图片宽度 100%，去除固定像素上限，确保与下方常规图片栏同宽。
 
 2026-11-17：用户要求 CICC 2026 合作论文不强调共同贡献，已去掉该条目的作者星号及 Equal contribution 说明；Selected Publication 的共同贡献标记保留。
+
+2026-11-17：按用户要求删除整个 News 板块及顶部 News 导航，不再维护新闻列表。
