@@ -74,7 +74,7 @@ bundle exec jekyll build
 
 两篇 2026 论文位于 Selected Publication 顶部，顺序为 JSSC、ISSCC，标题和作者已对照用户提供的 PDF 与 https://vsdl.hkust.edu.hk/publications/ 。JSSC 使用原文 DOI `10.1109/JSSC.2026.3718555`，ISSCC 使用 IEEE document 11409211。未复制 PDF 或推测 News 的录用公告日期。
 
-两篇共用用户提供的 `/Users/dongpingcheng/Downloads/RHB.png`，站点资产为 `images/rhb_2026.png`。`paper-box-shared` 在桌面上左侧 40% 图片栏、右侧 60% 两篇论文，图片最大 400px；手机上图片在上、论文在下。两篇间用细线区分，保留各自作者及链接。此前两张独立配图及 compact 样式已被此方案替换并删除。
+两篇共用用户提供的 `/Users/dongpingcheng/Downloads/RHB.png`，站点资产为 `images/rhb_2026.png`。`paper-box-shared` 在桌面上左侧 40% 图片栏、右侧 60% 两篇论文，图片撑满左栏、不设固定像素上限；手机上图片在上、论文在下。两篇间用细线区分，保留各自作者及链接。此前两张独立配图及 compact 样式已被此方案替换并删除。
 
 ## 自动发布约定
 
@@ -90,4 +90,6 @@ bundle exec jekyll build
 
 2026-11-17 用户补充：GQA (DAC 2024) 的 Pingcheng Dong / Yonghao Tan、TCAS-I 2021 stereo depth coprocessor 的 Pingcheng Dong / Zhuoyu Chen 也标注共同贡献星号及独立说明。用户指定删除 TCAS-II 2022 rectification、A-SSCC 2021、SOCC 2021、ICTA 2020 四个列表条目。
 
-2026-11-17：Collaborative Publications 按用户指定替换为七篇，按年份倒序：2026 ProQuant / CICC / Expert Streaming，2025 CCKT / META，2024 Quantization Variation，2023 LLM-FP4。作者全名及链接参照 arXiv、VSDL、ICLR proceedings 与 HKUST Research Portal；ProQuant 的 NeurIPS 2026、Expert Streaming 的 HPCA 2026 采用用户指定会议信息。共用 RHB 图恢复常规图片栏宽度（40%，最大 400px），保留双论文共图结构。
+2026-11-17：Collaborative Publications 按用户指定替换为七篇，按年份倒序：2026 ProQuant / CICC / Expert Streaming，2025 CCKT / META，2024 Quantization Variation，2023 LLM-FP4。作者全名及链接参照 arXiv、VSDL、ICLR proceedings 与 HKUST Research Portal；ProQuant 的 NeurIPS 2026、Expert Streaming 的 HPCA 2026 采用用户指定会议信息。共用 RHB 图恢复常规图片栏宽度（40%，图片撑满左栏），保留双论文共图结构。
+
+共图尺寸修正：`.paper-box-shared` 的桌面两栏使用固定 flex-basis 40% / 60%，禁止 flex 收缩；图片宽度 100%，去除固定像素上限，确保与下方常规图片栏同宽。

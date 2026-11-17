@@ -114,7 +114,8 @@ h1:before, .anchor:before {
         min-width: 0;
         img {
             width: 100%;
-            max-width: 400px;
+            max-width: 100%;
+            flex: 0 0 100%;
             height: auto;
             object-fit: contain;
         }
@@ -133,11 +134,13 @@ h1:before, .anchor:before {
 
     @include breakpoint($medium) {
         .paper-box-image {
+            flex: 0 0 40%;
             width: 40%;
             max-width: 40%;
             justify-content: center;
         }
         .paper-box-text {
+            flex: 0 0 60%;
             width: 60%;
             max-width: 60%;
         }
