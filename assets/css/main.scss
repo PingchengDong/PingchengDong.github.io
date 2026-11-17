@@ -146,3 +146,24 @@ h1:before, .anchor:before {
         }
     }
 }
+
+
+// Match the preferred desktop density without browser zoom.
+@media (min-width: 1280px) {
+    html {
+        font-size: 18.75px;
+    }
+
+    #main,
+    .masthead__inner-wrap {
+        max-width: 1600px;
+    }
+
+    .paper-box .paper-box-image img {
+        max-width: 500px;
+    }
+
+    .paper-box.paper-box-shared .paper-box-image img {
+        max-width: 100%;
+    }
+}
