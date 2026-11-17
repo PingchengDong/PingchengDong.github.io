@@ -47,9 +47,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 <span class="anchor" id="publications"></span>
 
-# 📝 Selected Publication
-
-<span class="publication-note">* Equal contribution</span>
+# 📝 Selected Publication（* Equal contribution）
 
 <div class='paper-box paper-box-shared'>
 <div class='paper-box-image'><img src='images/rhb_2026.png' alt="ReRAM-on-logic stacked chip, four-chip system, and SEM/TEM images" width="100%"></div>
