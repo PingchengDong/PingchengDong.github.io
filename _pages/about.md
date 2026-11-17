@@ -147,9 +147,7 @@ Yonghao Tan<sup>*</sup>, **Pingcheng Dong**<sup>*</sup>, Yongkun Wu, Yu Liu, Xue
 
 - [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](https://arxiv.org/abs/2611.08216). Yufei Xue, Yushi Huang, Jiawei Shao, **Pingcheng Dong**, Yonghao Tan, Shiyao Li, Kwang-Ting Cheng, Jun Zhang. **2026**, *Conference on Neural Information Processing Systems (NeurIPS)*
 
-- [A 5nm 91.43 TOPS/W 4-Chiplet Generalizable-Rendering-Processor with UCIe-Enabled Cross-Die-Cache and Balance-Aware Progressive Multi-Level Sparsity](https://doi.org/10.1109/CICC65509.2026.11509482). Yonghao Tan<sup>*</sup>, Songchen Ma<sup>*</sup>, **Pingcheng Dong**, Peng Luo, Zhiyuan Lei, Wencai Lu, Guangxi Ying, Man-To Yung, Haibo Zhao, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Yu Liu, Li Li, Luhong Liang, Mao Liu, Kwang-Ting Cheng. **2026**, *IEEE Custom Integrated Circuits Conference (CICC), pp. 1–4*
-
-  <em>*: Equal contribution</em>
+- [A 5nm 91.43 TOPS/W 4-Chiplet Generalizable-Rendering-Processor with UCIe-Enabled Cross-Die-Cache and Balance-Aware Progressive Multi-Level Sparsity](https://doi.org/10.1109/CICC65509.2026.11509482). Yonghao Tan, Songchen Ma, **Pingcheng Dong**, Peng Luo, Zhiyuan Lei, Wencai Lu, Guangxi Ying, Man-To Yung, Haibo Zhao, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Yu Liu, Li Li, Luhong Liang, Mao Liu, Kwang-Ting Cheng. **2026**, *IEEE Custom Integrated Circuits Conference (CICC), pp. 1–4*
 
 - [Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling](https://arxiv.org/abs/2603.27624). Songchen Ma, Hongyi Li, Weihao Zhang, Yonghao Tan, **Pingcheng Dong**, Yu Liu, Lan Liu, Yuzhong Jiao, Xuejiao Liu, Luhong Liang, Kwang-Ting Cheng. **2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*
 

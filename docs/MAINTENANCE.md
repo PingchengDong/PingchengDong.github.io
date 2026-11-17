@@ -93,3 +93,5 @@ bundle exec jekyll build
 2026-11-17：Collaborative Publications 按用户指定替换为七篇，按年份倒序：2026 ProQuant / CICC / Expert Streaming，2025 CCKT / META，2024 Quantization Variation，2023 LLM-FP4。作者全名及链接参照 arXiv、VSDL、ICLR proceedings 与 HKUST Research Portal；ProQuant 的 NeurIPS 2026、Expert Streaming 的 HPCA 2026 采用用户指定会议信息。共用 RHB 图恢复常规图片栏宽度（40%，图片撑满左栏），保留双论文共图结构。
 
 共图尺寸修正：`.paper-box-shared` 的桌面两栏使用固定 flex-basis 40% / 60%，禁止 flex 收缩；图片宽度 100%，去除固定像素上限，确保与下方常规图片栏同宽。
+
+2026-11-17：用户要求 CICC 2026 合作论文不强调共同贡献，已去掉该条目的作者星号及 Equal contribution 说明；Selected Publication 的共同贡献标记保留。
