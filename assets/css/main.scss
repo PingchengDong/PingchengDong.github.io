@@ -233,6 +233,12 @@ h1:before, .anchor:before {
         color: $text-color;
     }
 
+    .demo-note {
+        display: block;
+        margin-top: 0.2em;
+        font-size: 0.85em;
+    }
+
     @media (min-width: 600px) {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
