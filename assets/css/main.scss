@@ -227,6 +227,7 @@ h1:before, .anchor:before {
     }
 
     .demo-card figcaption {
+        font-family: $global-font-family;
         margin: 0.5em 0 0;
         text-align: center;
         font-size: 0.9em;
@@ -236,7 +237,7 @@ h1:before, .anchor:before {
     .demo-note {
         display: block;
         margin-top: 0.2em;
-        font-size: 0.85em;
+        font-size: inherit;
     }
 
     @media (min-width: 600px) {
