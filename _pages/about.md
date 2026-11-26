@@ -47,11 +47,11 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 <hr class="paper-entry-divider">
 
-<span class="publication-label">ISSCC' 26 (Highlight Paper)</span> <a class="publication-title" href="/files/papers/isscc_2026.pdf" target="_blank" rel="noopener">A 14.08-to-135.69 Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding</a>
+<span class="publication-label">ISSCC’26</span> <a class="publication-title" href="/files/papers/isscc_2026.pdf" target="_blank" rel="noopener">A 14.08-to-135.69 Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding</a>
 
 **Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Di Pang, Songchen Ma, Xijie Huang, Shih-Yang Liu, Dong Zhang, Zhichao Lu, Luhong Liang, Chi-Ying Tsui, Fengbin Tu, Liang Zhao, Kwang-Ting Cheng.
 
-**2026**, *IEEE International Solid-State Circuits Conference (ISSCC)*
+**2026**, *IEEE International Solid-State Circuits Conference (ISSCC)* <span style="color: #c62828;">Highlight Paper</span>
 
 
 </div>
