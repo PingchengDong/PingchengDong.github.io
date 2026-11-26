@@ -51,7 +51,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 **Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Di Pang, Songchen Ma, Xijie Huang, Shih-Yang Liu, Dong Zhang, Zhichao Lu, Luhong Liang, Chi-Ying Tsui, Fengbin Tu, Liang Zhao, Kwang-Ting Cheng.
 
-**2026**, *IEEE International Solid-State Circuits Conference (ISSCC)* <span style="color: #c62828;">Highlight Paper</span>
+**2026**, *IEEE International Solid-State Circuits Conference (ISSCC)*<br><strong style="color: #c62828;">Highlight Paper</strong>
 
 
 </div>
